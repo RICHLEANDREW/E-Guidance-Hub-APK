@@ -1,6 +1,6 @@
 # E-Guidance Hub for Android
 
-[Download the latest E-Guidance Hub APK](./E-Guidance-Hub-latest.apk?raw=1)
+[Download the latest E-Guidance Hub APK](https://raw.githubusercontent.com/RICHLEANDREW/E-Guidance-Hub-APK/main/E-Guidance-Hub-latest.apk)
 
 Current version: **v1.0.2** (version code 3)
 
